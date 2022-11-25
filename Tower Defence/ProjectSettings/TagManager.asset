@@ -65,10 +65,10 @@ TagManager:
   - name: Stones
     uniqueID: 298435341
     locked: 0
-  - name: UpperGrass
+  - name: Upper Grass
     uniqueID: 2249002101
     locked: 0
-  - name: UpperSand
+  - name: Upper Sand
     uniqueID: 1762622167
     locked: 0
   - name: Buildings
@@ -82,4 +82,10 @@ TagManager:
     locked: 0
   - name: Characters
     uniqueID: 557228649
+    locked: 0
+  - name: Upper Decorations
+    uniqueID: 1041051481
+    locked: 0
+  - name: UI
+    uniqueID: 3511635915
     locked: 0

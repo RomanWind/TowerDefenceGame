@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 237309881
+    locked: 0
+  - name: Foam
+    uniqueID: 3068669385
+    locked: 0
+  - name: Sand
+    uniqueID: 3805564077
+    locked: 0
+  - name: Grass
+    uniqueID: 3114287445
+    locked: 0
+  - name: Shadows
+    uniqueID: 463506249
+    locked: 0
+  - name: Bridge
+    uniqueID: 1632710811
+    locked: 0
+  - name: Rocks
+    uniqueID: 3437985377
+    locked: 0
+  - name: Stones
+    uniqueID: 298435341
+    locked: 0
+  - name: UpperGrass
+    uniqueID: 2249002101
+    locked: 0
+  - name: UpperSand
+    uniqueID: 1762622167
+    locked: 0
+  - name: Buildings
+    uniqueID: 1027654787
+    locked: 0
+  - name: Decorations 2
+    uniqueID: 3821502183
+    locked: 0
+  - name: Decorations
+    uniqueID: 4095388733
+    locked: 0
+  - name: Characters
+    uniqueID: 557228649
+    locked: 0

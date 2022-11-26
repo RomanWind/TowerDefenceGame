@@ -28,11 +28,9 @@ public class Enemy : MonoBehaviour
         if (wavepointIndex >= Waypoints.waypoints.Length - 1)
         {
             Destroy(gameObject);
+            return;
         }
-        else
-        {
-            wavepointIndex++;
-            target = Waypoints.waypoints[wavepointIndex];
-        }
+        wavepointIndex++;
+        target = Waypoints.waypoints[wavepointIndex];
     }
 }

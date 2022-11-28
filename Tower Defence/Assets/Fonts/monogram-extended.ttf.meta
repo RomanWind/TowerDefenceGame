@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 229de99bb3c5f0345b6af5ee649c1380
+guid: 414ac49eb73ff2c4cab98140d4ef8970
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - ThaleahFat
+  - monogramextended
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
